@@ -1,0 +1,13 @@
+{
+    "language": "zh-hans",
+    "author": "onephone",
+    "plugins":["theme-code", "splitter", "expandable-chapters", "prism", "-highlight", "-sharing", "disqus", "-lunr", "-search", "search-plus", "advanced-emoji"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "onephone"
+        },
+        "theme-default": {
+          "showLevel": true
+        }
+    }
+}

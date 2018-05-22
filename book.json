@@ -1,0 +1,7 @@
+{
+    "language": "zh-hans",
+    "author": "onephone",
+    "plugins":["splitter", "expandable-chapters-small", "-lunr", "-search", "search-plus"],
+    "pluginsConfig": {
+    }
+}
