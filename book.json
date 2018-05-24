@@ -1,7 +1,11 @@
 {
     "language": "zh-hans",
     "author": "onephone",
-    "plugins":["splitter", "expandable-chapters-small", "-lunr", "-search", "search-plus"],
+    "plugins":["splitter", "expandable-chapters-small", "-lunr", "-search", "search-plus", "page-toc-button"],
     "pluginsConfig": {
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
+        }
     }
 }
